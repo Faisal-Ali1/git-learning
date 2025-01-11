@@ -16,3 +16,6 @@ console.log(footer);
 
 
 console.log("Latest update");
+
+console.log("Bug fixed");
+
