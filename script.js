@@ -13,3 +13,6 @@ console.log(upi);
 
 let footer = "added footer in our website";
 console.log(footer);
+
+
+console.log("Latest update");
